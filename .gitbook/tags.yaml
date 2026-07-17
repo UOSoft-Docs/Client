@@ -1,0 +1,16 @@
+- tag: add
+  label: Add
+  icon: plus
+  color: $success
+- tag: fix
+  label: Fix
+  icon: bug
+  color: violet
+- tag: update
+  label: Update
+  icon: up
+  color: $primary
+- tag: remove
+  label: Remove
+  icon: eraser
+  color: $danger

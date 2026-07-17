@@ -1,0 +1,12 @@
+# Verimlilik
+
+#### Performans
+
+
+
+
+
+
+
+#### Optimizasyon
+
