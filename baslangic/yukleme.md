@@ -6,7 +6,7 @@
 
 ### 1. Adım : Kurulum konumu (sabit, değiştirilemez.)
 
-\<image>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Bu ekranda "Sonraki" seçeneği ile bir sonraki adıma geçiniz;
 
