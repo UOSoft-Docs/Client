@@ -2,9 +2,25 @@
 
 > Bu döküman, ClassicUO'nun UOSoft fork'unda **toor\_root** tarafından yapılan güncellemelerin 13 Mart 2024 tarihi itibariyle sırasına göre, sadeleştirilmiş bir dökümüdür. Her madde, ilgili commit başlığından çıkarım yapılarak dökümente edilmiştir.
 
-**🔒 işaretli maddeler:** Hile önleme (anti-cheat), yetkisiz müdahale önleme (anti-tamper) ve dosya koruma sistemleriyle ilgili commitlerdir. Bu tür sistemlerin **var olduğu ve geliştirildiği** belirtilmiş, ancak yöntem, dosya adı, eşik değeri gibi **istismar edilebilecek teknik detaylar bilinçli olarak paylaşılmamıştır**.
+**Etiketler:**
 
-**Etiketler:** `[Add]` yeni özellik/dosya, `[Fix]` hata düzeltmesi, `[Remove]` kaldırma/kapatma, `[Refactor]` yeniden yazım/temizlik, `[Perf]` performans/önbellek, `[Build]` derleme-CI/CD-proje ayarları, `[i18n]` yerelleştirme, `[Security]` güvenlik (detaysız), `[Edit]` genel düzenleme.
+&#x20;`[Add]` yeni özellik/dosya,&#x20;
+
+`[Fix]` hata düzeltmesi,&#x20;
+
+`[Remove]` kaldırma/kapatma,&#x20;
+
+`[Refactor]` yeniden yazım/temizlik,&#x20;
+
+`[Perf]` performans,&#x20;
+
+`[Build]` derleme-CI/CD-proje ayarları,&#x20;
+
+`[i18n]` yerelleştirme,&#x20;
+
+`[Security]` güvenlik (detaysız),&#x20;
+
+`[Edit]` genel düzenleme.
 
 {% updates format="full" %}
 {% update date="2026-07-17" tags="Perf,Add,Fix" %}
