@@ -2,8 +2,8 @@
 
 * [Giriş](README.md)
   * [Genel Bilgiler](giris/genel-bilgiler.md)
-  * [Güncellemeler](giris/guncellemeler.md)
   * [S.S.S](giris/s.s.s.md)
+  * [Güncellemeler](giris/guncellemeler.md)
 * [Başlangıç](baslangic/README.md)
   * [İndirme](baslangic/indirme.md)
   * [Yükleme](baslangic/yukleme.md)
