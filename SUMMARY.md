@@ -84,4 +84,4 @@
 
 ***
 
-* [eklenti ve asistanlar](eklenti-ve-asistanlar.md)
+* [Plugins & Assistants](plugins-and-assistants.md)

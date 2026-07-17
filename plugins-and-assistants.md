@@ -1,10 +1,10 @@
-# eklenti ve asistanlar
+# Plugins & Assistants
 
 ClassicUO'nun (ve dolayısıyla UOSoft istemcisinin) alt yapısında, **Razor**, **RazorEnhanced** veya **ClassicAssist** gibi 3. parti eklentileri (`.dll` / `.exe` / `.so` / `.dylib`) yükleyebilen bir eklenti sistemi bulunur.
 
-:::danger\[UOSoft sunucularında 3. parti asistanlar kısıtlıdır] UOSoft istemcisi; hile önleme (**anti-cheat**) ve yetkisiz müdahale önleme (**anti-tamper**) sistemleriyle korunmaktadır (bkz. [Changelog](/broken/pages/2a0311ab97fb403ecaac6a5713f23e1762be200d)). Bu nedenle Razor/RazorEnhanced/ClassicAssist gibi otomasyon sağlayan 3. parti asistanların kullanımı **kısıtlıdır veya yasaktır**. Eski sürümlerde bulunan "asistan üzerinden komut kaydı" gibi bazı özellikler bu yüzden bilinçli olarak kapatılmıştır.
+UOSoft sunucularında 3. parti asistanlar kısıtlıdır. UOSoft istemcisi; hile önleme (**anti-cheat**) ve yetkisiz müdahale önleme (**anti-tamper**) sistemleriyle korunmaktadır (bkz. [Changelog](giris/guncellemeler/)). Bu nedenle Razor/RazorEnhanced/ClassicAssist gibi otomasyon sağlayan 3. parti asistanların kullanımı **kısıtlıdır veya yasaktır**. Eski sürümlerde bulunan "asistan üzerinden komut kaydı" gibi bazı özellikler bu yüzden bilinçli olarak kapatılmıştır.
 
-**Bağlandığın sunucunun kurallarını kontrol etmeden 3. parti bir asistan kurma** — tespit edilmesi hesap/karakter yaptırımına yol açabilir. Hangi araçların serbest olduğu sunucudan sunucuya değişebilir; kesin bilgiyi her zaman bağlandığın UOSoft sunucusunun kendi kurallarından/Discord'undan teyit et. :::
+**Bağlandığın sunucunun kurallarını kontrol etmeden 3. parti bir asistan kurma** — tespit edilmesi hesap/karakter yaptırımına yol açabilir. Hangi araçların serbest olduğu sunucudan sunucuya değişebilir; kesin bilgiyi her zaman bağlandığın UOSoft sunucusunun kendi kurallarından/Discord'undan teyit et.
 
 ## Genel bilgi: eklenti nasıl kurulur (izin verilen durumlarda)
 
@@ -12,7 +12,7 @@ Eğer bağlandığın sunucu belirli bir asistanın kullanımına izin veriyorsa
 
 1. Sunucunun izin verdiği eklentiyi indir (genelde bir `.zip` dosyası olarak gelir).
 2. `.zip` dosyasını istemci klasöründeki `Data/Plugins/` altına çıkar (klasör yoksa oluştur).
-3. İstemciyi başlat, [**Ayarlar Menüsü → Makro**](/broken/pages/e5dc27c6d19bf07c7d0d71c7b2257d0ea6ea4ac8) ekranından ya da eklenti yöneticisinden ilgili `.dll`/`.exe` dosyasını seç.
+3. Client otomatik olarak eklentiyi tanır ve çalışmaya başlar.
 
 ## Neden dikkatli olmalısın?
 
