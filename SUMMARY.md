@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Giriş](README.md)
-  * [Genel Bilgiler](giris/genel-bilgiler.md)
-  * [Güncellemeler](giris/guncellemeler.md)
-  * [S.S.S](giris/s.s.s.md)
+  * [Genel Bilgiler](readme/genel-bilgiler.md)
+  * [Güncellemeler](readme/guncellemeler.md)
+  * [S.S.S](readme/s.s.s.md)
 * [Başlangıç](baslangic/README.md)
   * [İndirme](baslangic/indirme.md)
   * [Yükleme](baslangic/yukleme.md)
