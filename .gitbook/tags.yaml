@@ -9,7 +9,7 @@
 - tag: update
   label: Update
   icon: up
-  color: $primary
+  color: blue
 - tag: remove
   label: Remove
   icon: eraser

@@ -1212,11 +1212,4 @@
 * \[Edit] Fork'un temel proje yapısı kuruldu. `ca591cb98`
 * \[Edit] Deneme amaçlı bir commit. `f2468ffcc`
 {% endupdate %}
-
-{% update date="2024-03-13" tags="Edit" %}
-## 13 Mart 2024
-
-* \[Edit] Karakter ekranında (paperdoll) küçük bir düzenleme yapıldı. `35b508461`
-* \[Edit] Karakter ekranında (paperdoll) tekrar küçük bir düzenleme yapıldı. `b5eaa385a`
-{% endupdate %}
 {% endupdates %}
