@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Giriş](README.md)
+* [Changelogs](README.md)
+* [Giriş](<README (1).md>)
   * [Genel Bilgiler](readme/genel-bilgiler.md)
   * [Güncellemeler](readme/guncellemeler.md)
   * [S.S.S](readme/s.s.s.md)
