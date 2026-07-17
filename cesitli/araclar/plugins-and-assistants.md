@@ -2,7 +2,7 @@
 
 ClassicUO'nun (ve dolayısıyla UOSoft istemcisinin) alt yapısında, **Razor**, **RazorEnhanced** veya **ClassicAssist** gibi 3. parti eklentileri (`.dll` / `.exe` / `.so` / `.dylib`) yükleyebilen bir eklenti sistemi bulunur.
 
-UOSoft sunucularında 3. parti asistanlar kısıtlıdır. UOSoft istemcisi; hile önleme (**anti-cheat**) ve yetkisiz müdahale önleme (**anti-tamper**) sistemleriyle korunmaktadır (bkz. [Changelog](giris/guncellemeler/)). Bu nedenle Razor/RazorEnhanced/ClassicAssist gibi otomasyon sağlayan 3. parti asistanların kullanımı **kısıtlıdır veya yasaktır**. Eski sürümlerde bulunan "asistan üzerinden komut kaydı" gibi bazı özellikler bu yüzden bilinçli olarak kapatılmıştır.
+UOSoft sunucularında 3. parti asistanlar kısıtlıdır. UOSoft istemcisi; hile önleme (**anti-cheat**) ve yetkisiz müdahale önleme (**anti-tamper**) sistemleriyle korunmaktadır (bkz. [Changelog](../../giris/guncellemeler/)). Bu nedenle Razor/RazorEnhanced/ClassicAssist gibi otomasyon sağlayan 3. parti asistanların kullanımı **kısıtlıdır veya yasaktır**. Eski sürümlerde bulunan "asistan üzerinden komut kaydı" gibi bazı özellikler bu yüzden bilinçli olarak kapatılmıştır.
 
 **Bağlandığın sunucunun kurallarını kontrol etmeden 3. parti bir asistan kurma** — tespit edilmesi hesap/karakter yaptırımına yol açabilir. Hangi araçların serbest olduğu sunucudan sunucuya değişebilir; kesin bilgiyi her zaman bağlandığın UOSoft sunucusunun kendi kurallarından/Discord'undan teyit et.
 

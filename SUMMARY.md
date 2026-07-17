@@ -80,8 +80,5 @@
 
 * [Gereksinimler](cesitli/gereksinimler.md)
 * [Hata & Uyarılar](cesitli/hata-and-uyarilar.md)
-* [Araçlar](cesitli/araclar.md)
-
-***
-
-* [Plugins & Assistants](plugins-and-assistants.md)
+* [Araçlar](cesitli/araclar/README.md)
+  * [Plugins & Assistants](cesitli/araclar/plugins-and-assistants.md)
