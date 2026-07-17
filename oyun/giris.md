@@ -58,6 +58,6 @@ Burada karakterinizin oyuna başlayacağı şehir seçilir. Her şehrin kendine 
 
 ## Oyuna Giriş: Merhaba Dünya
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/HelloWorld.png" alt=""><figcaption></figcaption></figure>
 
 Karakter Oluşturduktan sonra artık özgün ve macera dolu dünyaya ilk adımı atmış olacaksınız. Bundan sonrası sizlerin hayalgücü ile sınırlıdır.

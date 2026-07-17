@@ -6,7 +6,7 @@
 
 ### 1. Adım : Kurulum konumu (sabit, değiştirilemez.)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Yukleme-KurulumKonumu.png" alt=""><figcaption></figcaption></figure>
 
 Bu ekranda "Sonraki" seçeneği ile bir sonraki adıma geçiniz;
 
