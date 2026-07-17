@@ -81,3 +81,7 @@
 * [Gereksinimler](cesitli/gereksinimler.md)
 * [Hata & Uyarılar](cesitli/hata-and-uyarilar.md)
 * [Araçlar](cesitli/araclar.md)
+
+***
+
+* [eklenti ve asistanlar](eklenti-ve-asistanlar.md)
