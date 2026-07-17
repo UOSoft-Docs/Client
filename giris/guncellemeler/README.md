@@ -1,35 +1,15 @@
 # Güncellemeler
 
-> Bu döküman, ClassicUO'nun UOSoft fork'unda **toor\_root** tarafından yapılan güncellemelerin 13 Mart 2024 tarihi itibariyle sırasına göre, sadeleştirilmiş bir dökümüdür. Her madde, ilgili commit başlığından çıkarım yapılarak dökümente edilmiştir.
 
-**Etiketler:**
-
-&#x20;`[Add]` yeni özellik/dosya,&#x20;
-
-`[Fix]` hata düzeltmesi,&#x20;
-
-`[`🗑️`]` Kaldırma/kapatma,&#x20;
-
-`[Refactor]` yeniden yazım/temizlik,&#x20;
-
-`[`⚡`]` Performans
-
-`[Build]` derleme-CI/CD-proje ayarları,&#x20;
-
-`[i18n]` yerelleştirme,&#x20;
-
-`[Security]` güvenlik (detaysız),&#x20;
-
-`[Edit]` genel düzenleme.
 
 {% updates format="full" %}
 {% update date="2026-07-17" tags="Perf,Add,Fix,fix,add" %}
 ## 17 Temmuz 2026
 
-* \[⚡] Evlerin ekrana sonradan girmesi davranışı eski haline döndürüldü (performans sorununa yol açabileceği not edildi). `85555a556`
-* \[➕] Evlerin render sıralamasında yükseklik (Z) koordinatının da rol oynaması için test amaçlı bir tanım eklendi. `d3cbdbb8e`
-* \[Perf] Evlerin çiziminde önbellek (cache) sistemi yazıldı; ayarlar ve profil ekranına eklendi. `57a6e34f4`
-* \[🐞] Ultralight web arayüzü ikon düzeltmeleri yapıldı. `8b37bbb26`
+* \[<mark style="color:violet;">**Fix**</mark>] Evlerin ekrana sonradan girmesi davranışı eski haline döndürüldü (performans sorununa yol açabileceği not edildi). `85555a556`
+* \[<mark style="color:$success;">**Add**</mark>] Evlerin render sıralamasında yükseklik (Z) koordinatının da rol oynaması için test amaçlı bir tanım eklendi. `d3cbdbb8e`
+* \[<mark style="color:$success;">**Add**</mark>] Evlerin çiziminde önbellek (cache) sistemi yazıldı; ayarlar ve profil ekranına eklendi. `57a6e34f4`
+* \[<mark style="color:violet;">**Fix**</mark>] Ultralight web arayüzü ikon düzeltmeleri yapıldı. `8b37bbb26`
 {% endupdate %}
 
 {% update date="2026-07-15" tags="Add,Edit,Fix" %}
