@@ -8,11 +8,11 @@
 
 `[Fix]` hata düzeltmesi,&#x20;
 
-`[Remove]` kaldırma/kapatma,&#x20;
+`[`🗑️`]` Kaldırma/kapatma,&#x20;
 
 `[Refactor]` yeniden yazım/temizlik,&#x20;
 
-`[Perf]` performans,&#x20;
+`[`⚡`]` Performans
 
 `[Build]` derleme-CI/CD-proje ayarları,&#x20;
 
@@ -23,13 +23,13 @@
 `[Edit]` genel düzenleme.
 
 {% updates format="full" %}
-{% update date="2026-07-17" tags="Perf,Add,Fix" %}
+{% update date="2026-07-17" tags="Perf,Add,Fix,fix,add" %}
 ## 17 Temmuz 2026
 
-* \[Perf] Evlerin ekrana sonradan girmesi davranışı eski haline döndürüldü (performans sorununa yol açabileceği not edildi). `85555a556`
-* \[Add] Evlerin render sıralamasında yükseklik (Z) koordinatının da rol oynaması için test amaçlı bir tanım eklendi. `d3cbdbb8e`
+* \[⚡] Evlerin ekrana sonradan girmesi davranışı eski haline döndürüldü (performans sorununa yol açabileceği not edildi). `85555a556`
+* \[➕] Evlerin render sıralamasında yükseklik (Z) koordinatının da rol oynaması için test amaçlı bir tanım eklendi. `d3cbdbb8e`
 * \[Perf] Evlerin çiziminde önbellek (cache) sistemi yazıldı; ayarlar ve profil ekranına eklendi. `57a6e34f4`
-* \[Fix] Ultralight web arayüzü ikon düzeltmeleri yapıldı. `8b37bbb26`
+* \[🐞] Ultralight web arayüzü ikon düzeltmeleri yapıldı. `8b37bbb26`
 {% endupdate %}
 
 {% update date="2026-07-15" tags="Add,Edit,Fix" %}
